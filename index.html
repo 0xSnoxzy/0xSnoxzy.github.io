@@ -65,7 +65,7 @@
                 analyser.getByteFrequencyData(dataArray);
                 const average = getAverageVolume(dataArray);
 
-                if (average > 300) {
+                if (average > 150) {
                   if (!isBlowing) {
                     isBlowing = true;
                     simulateBlow();
