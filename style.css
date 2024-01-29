@@ -10,7 +10,7 @@ body {
   
   .birthday-text {
     text-align: center;
-    color: white;
+    color: #81007F;
     margin-top: 20px;
   }
   
@@ -94,7 +94,7 @@ body {
   h1,
   .wish {
     text-align: center;
-    color: white;
+    color: #81007F;
     font-size: 33px;
     font-family: monospace;
     font-weight: 300;
@@ -369,7 +369,8 @@ body {
   body {
     margin: 0;
     padding: 0;
-    background: #81007F;
+    background: black
+    ;
     overflow: hidden;
   }
   
